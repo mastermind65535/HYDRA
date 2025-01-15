@@ -11,9 +11,9 @@ With a command-line interface, HYDRA empowers users to perform detailed inspecti
 ## Versions
 | Version          | Interface                        | Source Code                                                                                                                                                            |
 |:-----------------|:---------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.4.0            | Graphic User Interface (GUI)     | [https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%201.4.0/HYDRA.py](https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%201.4.0/HYDRA.py)     |
-| 2.0.0            | Command Line Interface (CLI)     | [https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%202.0.0/HYDRA.py](https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%202.0.0/HYDRA.py)     |
-| Alpha            | Command Line Interface (CLI)     | [https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%201.4.0/HYDRA.py](https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%201.4.0/HYDRA.py)     |
+| 1.4.0            | GUI                              | [https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%201.4.0/HYDRA.py](https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%201.4.0/HYDRA.py)     |
+| 2.0.0            | CLI                              | [https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%202.0.0/HYDRA.py](https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%202.0.0/HYDRA.py)     |
+| Alpha            | CLI                              | [https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%201.4.0/HYDRA.py](https://github.com/mastermind65535/HYDRA/blob/main/HYDRA/HYDRA%201.4.0/HYDRA.py)     |
 
 ## Pictures
 <img src="screenshot.png">
